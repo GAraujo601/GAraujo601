@@ -30,7 +30,7 @@ Painel publicado que mostra quais habilidades mais aparecem nas vagas que analis
 
 - **Site front-end (2022)projeto pessoal:** O objetivo deste site é facilitar o contato direto entre os clientes e a assistência técnica, oferecendo as seguintes funcionalidades:diagnóstico e orçamento, consulta de estoque e agendamento on-line.
  HTML, CSS, JavaScript e Bootstrap.
-Repositório](https://github.com/GAraujo601/GAraTech-st)
+[Repositório](https://github.com/GAraujo601/GAraTech-st)
 
 - **Avaliação de modelos de IA:** escrevi prompts e perguntas de acompanhamento, incluindo tentativas de jailbreak, para identificar e reduzir alucinações em respostas de modelos de linguagem. 
 - **Back-end (curso):** teste de APIs com Postman e conexão a um banco MongoDB.
